@@ -1,5 +1,4 @@
 # ORDSR
-*UPDATED Jan 31 2019*
 
 ## Introduction 
 
