@@ -12,4 +12,4 @@ Please find step-by-step CDCT layer DCT and IDCT illustration in this [slide](ht
 
 ## Structure
 
-![](http://signal.ee.psu.edu/research/ORDSR_files/cubes.jpg)
+![](model/ordsr.jpg)
